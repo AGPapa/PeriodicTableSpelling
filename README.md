@@ -1,7 +1,7 @@
 # PeriodicTableSpelling
 A F# program to show all of the ways a word can be spelled using only elements of the periodic table
 
-The program can be compiled with mono and then run wth the command `mono periodic.exe <insert-word>`
+The program can be compiled with mono and then run with the command `mono periodic.exe <insert-word>`
  
  Here's an example output
   
